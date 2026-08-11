@@ -1,0 +1,94 @@
+[
+  { "slug": "odoo-cameroun-erp-pme", "title": "Un seul outil pour gérer toute votre PME", "subtitle": "Odoo : ventes, stock et compta centralisés", "overlay": 0.80 },
+  { "slug": "odoo-cameroon-erp-sme", "title": "One tool to run your entire SME", "subtitle": "Odoo: sales, stock and accounting in one place", "overlay": 0.80 },
+
+  { "slug": "refonte-site-web-cameroun", "title": "Votre site mérite peut-être une refonte", "subtitle": "Quand et pourquoi moderniser votre site web", "overlay": 0.78 },
+  { "slug": "website-redesign-cameroon", "title": "Maybe your website needs a redesign", "subtitle": "When and why to modernize your site", "overlay": 0.78 },
+
+  { "slug": "quest-ce-qu-un-site-web", "title": "C'est quoi un site web, au juste ?", "subtitle": "Définition simple et exemples concrets", "overlay": 0.72 },
+  { "slug": "what-is-a-website", "title": "What is a website, exactly?", "subtitle": "A simple definition with real examples", "overlay": 0.72 },
+
+  { "slug": "site-web-restaurant-cameroun", "title": "Le site vitrine qu'il faut à votre restaurant", "subtitle": "Menu, photos et contact : l'essentiel", "overlay": 0.82 },
+  { "slug": "restaurant-website-cameroon", "title": "The showcase site your restaurant needs", "subtitle": "Menu, photos and contact done right", "overlay": 0.82 },
+
+  { "slug": "site-web-hotel-cameroun", "title": "Un site d'hôtel qui remplit vos chambres", "subtitle": "Réservation en ligne et visibilité", "overlay": 0.80 },
+  { "slug": "hotel-website-cameroon", "title": "A hotel site that fills your rooms", "subtitle": "Online booking and real visibility", "overlay": 0.80 },
+
+  { "slug": "site-web-clinique-cameroun", "title": "Le site web qui rassure vos patients", "subtitle": "Rendez-vous, horaires et confiance en ligne", "overlay": 0.80 },
+  { "slug": "clinic-website-cameroon", "title": "The website that reassures your patients", "subtitle": "Appointments, hours and trust online", "overlay": 0.80 },
+
+  { "slug": "site-web-association-eglise-cameroun", "title": "Donnez une vitrine en ligne à votre communauté", "subtitle": "Événements, dons et contact au même endroit", "overlay": 0.80 },
+  { "slug": "church-association-website-cameroon", "title": "Give your community an online home", "subtitle": "Events, donations and contact in one place", "overlay": 0.80 },
+
+  { "slug": "site-web-ecole-cameroun", "title": "Le site web dont votre école a besoin", "subtitle": "Inscriptions et communication simplifiées", "overlay": 0.80 },
+  { "slug": "school-website-cameroon", "title": "The website your school needs", "subtitle": "Simpler enrollment and communication", "overlay": 0.80 },
+
+  { "slug": "comment-creer-un-site-web-au-cameroun", "title": "Créer un site web au Cameroun, étape par étape", "subtitle": "Du domaine à la mise en ligne, le guide complet", "overlay": 0.75 },
+  { "slug": "how-to-create-a-website-in-cameroon", "title": "Build a website in Cameroon, step by step", "subtitle": "The full guide from domain to launch", "overlay": 0.75 },
+
+  { "slug": "wordpress-ou-site-sur-mesure", "title": "WordPress ou site sur mesure : lequel choisir ?", "subtitle": "Le bon choix selon votre projet et budget", "overlay": 0.78 },
+  { "slug": "wordpress-or-custom-website", "title": "WordPress or a custom-built site?", "subtitle": "The right choice for your project and budget", "overlay": 0.78 },
+
+  { "slug": "site-web-gratuit-vs-agence", "title": "Site gratuit : le vrai coût caché", "subtitle": "Ce que 'gratuit' ne vous dit pas", "overlay": 0.80 },
+  { "slug": "free-website-vs-agency", "title": "Free website: the real hidden cost", "subtitle": "What 'free' doesn't tell you", "overlay": 0.80 },
+
+  { "slug": "agence-web-ou-freelance-cameroun", "title": "Agence web ou freelance : que choisir ?", "subtitle": "Avantages, risques et bon choix pour vous", "overlay": 0.78 },
+  { "slug": "web-agency-or-freelancer-cameroon", "title": "Web agency or freelance developer?", "subtitle": "Pros, risks and the right pick for you", "overlay": 0.78 },
+
+  { "slug": "creer-site-web-cameroun-depuis-europe", "title": "Lancer votre activité au pays depuis l'Europe", "subtitle": "Créer votre site à distance, sans stress", "overlay": 0.80 },
+  { "slug": "create-website-cameroon-from-europe", "title": "Launch your business back home from Europe", "subtitle": "Build your site remotely, stress-free", "overlay": 0.80 },
+
+  { "slug": "agence-web-diaspora-africaine-europe", "title": "Une agence web pensée pour la diaspora", "subtitle": "Votre projet géré depuis l'Europe et le pays", "overlay": 0.80 },
+  { "slug": "web-agency-african-diaspora-europe", "title": "A web agency built for the diaspora", "subtitle": "Your project handled across Europe and home", "overlay": 0.80 },
+
+  { "slug": "odoo-vs-wordpress-cameroun", "title": "Odoo ou WordPress : quel outil pour quel besoin", "subtitle": "Gérer son entreprise vs être visible en ligne", "overlay": 0.78 },
+  { "slug": "odoo-vs-wordpress-cameroon-en", "title": "Odoo or WordPress: which for which need", "subtitle": "Running your business vs being visible online", "overlay": 0.78 },
+
+  { "slug": "comment-apparaitre-sur-google-quand-on-est-une-entreprise-au-cameroun", "title": "Comment apparaître sur Google au Cameroun", "subtitle": "Le guide pour être trouvé par vos clients", "overlay": 0.80 },
+  { "slug": "how-to-appear-on-google-as-a-business-in-cameroon", "title": "How to appear on Google in Cameroon", "subtitle": "The guide to being found by your customers", "overlay": 0.80 },
+
+  { "slug": "rentree-2026-pourquoi-votre-ecole-a-besoin-dun-site-web", "title": "Rentrée 2026 : votre école a besoin d'un site", "subtitle": "Attirez et rassurez les parents dès maintenant", "overlay": 0.80 },
+  { "slug": "back-to-school-2026-why-your-school-needs-a-website", "title": "Back to school 2026: your school needs a site", "subtitle": "Attract and reassure parents right now", "overlay": 0.80 },
+
+  { "slug": "creer-un-site-web-pour-cabinet-davocats-au-cameroun", "title": "Le site vitrine qu'il faut à votre cabinet", "subtitle": "Crédibilité et confiance pour vos clients", "overlay": 0.82 },
+  { "slug": "building-a-law-firm-website-in-cameroon", "title": "The showcase site your law firm needs", "subtitle": "Credibility and trust for your clients", "overlay": 0.82 },
+
+  { "slug": "site-web-pour-agence-immobiliere-au-cameroun-le-guide", "title": "Le site web qui vend vos biens immobiliers", "subtitle": "Annonces, photos et contacts qualifiés", "overlay": 0.80 },
+  { "slug": "real-estate-agency-website-in-cameroon-the-guide", "title": "The website that sells your properties", "subtitle": "Listings, photos and qualified leads", "overlay": 0.80 },
+
+  { "slug": "creer-un-site-web-pour-une-pharmacie-au-cameroun", "title": "Un site web pour votre pharmacie", "subtitle": "Horaires, garde et visibilité locale", "overlay": 0.80 },
+  { "slug": "building-a-pharmacy-website-in-cameroon", "title": "A website for your pharmacy", "subtitle": "Hours, on-call info and local visibility", "overlay": 0.80 },
+
+  { "slug": "site-web-pour-auto-ecole-au-cameroun-le-guide", "title": "Le site web qui remplit votre auto-école", "subtitle": "Inscriptions et infos permis en ligne", "overlay": 0.80 },
+  { "slug": "driving-school-website-in-cameroon-the-guide", "title": "The website that fills your driving school", "subtitle": "Online sign-ups and licence info", "overlay": 0.80 },
+
+  { "slug": "comment-accepter-les-paiements-mtn-momo-et-orange-money-sur-son-site", "title": "Accepter MoMo et Orange Money sur votre site", "subtitle": "Encaissez vos clients en mobile money", "overlay": 0.82 },
+  { "slug": "how-to-accept-mtn-momo-and-orange-money-payments-on-your-website", "title": "Accept MoMo and Orange Money on your site", "subtitle": "Get paid by your customers in mobile money", "overlay": 0.82 },
+
+  { "slug": "comment-creer-une-adresse-email-professionnelle-au-cameroun", "title": "Une adresse email pro à votre nom de domaine", "subtitle": "nom@votreentreprise.cm, ça change tout", "overlay": 0.78 },
+  { "slug": "how-to-create-a-professional-email-address-in-cameroon", "title": "A pro email on your own domain", "subtitle": "name@yourbusiness.cm changes everything", "overlay": 0.78 },
+
+  { "slug": "creer-un-site-web-pour-salon-de-coiffure-et-institut-de-beaute", "title": "Le site qui remplit votre salon de beauté", "subtitle": "Galerie, prise de rendez-vous et visibilité", "overlay": 0.82 },
+  { "slug": "building-a-hair-salon-and-beauty-institute-website", "title": "The site that fills your beauty salon", "subtitle": "Gallery, online booking and visibility", "overlay": 0.82 },
+
+  { "slug": "site-web-pour-entreprise-de-btp-et-construction-au-cameroun", "title": "Le site web qui décroche vos chantiers", "subtitle": "Réalisations, devis et crédibilité en ligne", "overlay": 0.82 },
+  { "slug": "construction-company-website-in-cameroon-the-guide", "title": "The website that wins you contracts", "subtitle": "Portfolio, quotes and credibility online", "overlay": 0.82 },
+
+  { "slug": "acheter-un-nom-de-domaine-cm-le-guide-complet", "title": "Acheter un nom de domaine .cm : le guide", "subtitle": "Réservez votre adresse camerounaise", "overlay": 0.78 },
+  { "slug": "buying-a-cm-domain-name-the-complete-guide", "title": "Buying a .cm domain name: the guide", "subtitle": "Secure your Cameroonian web address", "overlay": 0.78 },
+
+  { "slug": "hebergement-web-au-cameroun-comment-bien-choisir", "title": "Bien choisir son hébergement web au Cameroun", "subtitle": "Uptime, vitesse et support qui comptent", "overlay": 0.80 },
+  { "slug": "web-hosting-in-cameroon-how-to-choose-well", "title": "Choosing web hosting in Cameroon", "subtitle": "Uptime, speed and support that matter", "overlay": 0.80 },
+
+  { "slug": "creer-un-site-web-pour-une-ong-ou-cooperative-au-cameroun", "title": "Un site web pour votre ONG ou coopérative", "subtitle": "Mission, projets et dons en ligne", "overlay": 0.80 },
+  { "slug": "building-a-website-for-an-ngo-or-cooperative-in-cameroon", "title": "A website for your NGO or cooperative", "subtitle": "Mission, projects and donations online", "overlay": 0.80 },
+
+  { "slug": "creer-un-site-web-pour-artiste-ou-musicien-camerounais", "title": "Le site web qui fait briller votre art", "subtitle": "Musique, agenda et fans au même endroit", "overlay": 0.80 },
+  { "slug": "building-a-website-for-a-cameroonian-artist-or-musician", "title": "The website that showcases your art", "subtitle": "Music, tour dates and fans in one place", "overlay": 0.80 },
+
+  { "slug": "vendre-sur-whatsapp-business-au-cameroun-le-guide", "title": "Vendre sur WhatsApp Business au Cameroun", "subtitle": "Catalogue, commandes et clients fidèles", "overlay": 0.82 },
+  { "slug": "selling-on-whatsapp-business-in-cameroon-the-guide", "title": "Selling on WhatsApp Business in Cameroon", "subtitle": "Catalogue, orders and loyal customers", "overlay": 0.82 },
+
+  { "slug": "mettre-la-prise-de-rendez-vous-en-ligne-sur-son-site", "title": "La prise de rendez-vous en ligne sur votre site", "subtitle": "Moins d'appels, moins de rendez-vous manqués", "overlay": 0.80 },
+  { "slug": "adding-online-appointment-booking-to-your-website", "title": "Online appointment booking on your site", "subtitle": "Fewer calls, fewer no-shows", "overlay": 0.80 }
+]
