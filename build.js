@@ -40,7 +40,7 @@ const CONFIG = {
 
   logo: {
     file: p("assets", "logo.png"),
-    x: 96,
+    x: 126,
     y: 88,
     height: 106, // largeur calculée pour garder le ratio
   },
@@ -64,7 +64,7 @@ const CONFIG = {
   subtitle: {
     font: "MulishSub", // déjà en italique
     color: "#0F3F63",
-    size: 34,
+    size: 42,
     maxWidth: 1180,
     minSize: 22,
     y: 612,            // ligne de base
@@ -72,7 +72,7 @@ const CONFIG = {
       enabled: true,
       gap: 42,         // espace entre le texte et le filet
       innerX: 210,     // le filet gauche part d'ici, le droit s'arrête à width-innerX
-      thickness: 3,
+      thickness: 4,
       alpha: 0.32,
     },
   },
