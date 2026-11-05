@@ -126,6 +126,17 @@ function drawBase(ctx, img, W, H, cfg) {
   if (cfg.fit === "contain") {
     ctx.fillStyle = cfg.background;
     ctx.fillRect(0, 0, W, H);
+    // Bandes latérales/haut-bas : on étire la ligne de pixels du bord de l'image
+    // pour prolonger son fond uni (sinon le rectangle de l'image se voit sur le crème).
+    const x = (W - w) / 2, y = (H - h) / 2;
+    if (x > 0) {
+      ctx.drawImage(img, 0, 0, 1, img.height, 0, y, x + 1, h);
+      ctx.drawImage(img, img.width - 1, 0, 1, img.height, x + w - 1, y, x + 1, h);
+    }
+    if (y > 0) {
+      ctx.drawImage(img, 0, 0, img.width, 1, x, 0, w, y + 1);
+      ctx.drawImage(img, 0, img.height - 1, img.width, 1, x, y + h - 1, w, y + 1);
+    }
   }
   ctx.drawImage(img, (W - w) / 2, (H - h) / 2, w, h);
 }
